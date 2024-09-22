@@ -1,0 +1,1 @@
+# hoteliapal-desktop-client
